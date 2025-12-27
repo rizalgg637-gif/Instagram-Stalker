@@ -1,4 +1,3 @@
-```markdown
 # TikTok Stalker - Termux Edition
 
 <p align="center">
